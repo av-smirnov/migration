@@ -1,7 +1,7 @@
 # Миграционные потоки и сети
 В репозитории размещены исходный код, наборы данных и иллюстрации к статьям, выполненным по [проекту Российского научного фонда № 24-78-10061](https://arcdem.ru/).
 
-### **Migration Landscape of Russia: Typology of Municipalities and Patterns of Spatial Population Mobility** // Population and Economics. 2026. Vol. 10(2). P. 115-139. DOI: 10.3897/popecon.10.e146614.
+### [**Migration Landscape of Russia: Typology of Municipalities and Patterns of Spatial Population Mobility**](https://populationandeconomics.pensoft.net/article/146614/) // Population and Economics. 2026. Vol. 10(2). P. 115-139. DOI: 10.3897/popecon.10.e146614.
 
 Файл [**data/municipalities.xlsx**](/data/municipalities.xlsx) содержит данные о миграции в 2302 муниципальных образованиях России за 2015-2022 гг. (источники: [БДПМО Росстата](https://rosstat.gov.ru/storage/mediabank/munst.htm), проект «[Виртуальное население России](https://webcensus.ru/)», набор данных «[The inter-municipal educational migration in Russia](https://data.mendeley.com/datasets/nk8k7b998x/2)»).
 
